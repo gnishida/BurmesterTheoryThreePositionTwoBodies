@@ -1,0 +1,22 @@
+<design version="1.0" date="09/29/2017" author="Gen Nishida">
+    <layer>
+        <shape subtype="0" type="rectangle">
+            <pose x="-0.05" y="4.95" theta="0"/>
+            <params width="14" height="-4.9"/>
+        </shape>
+        <shape subtype="0" type="rectangle">
+            <pose x="16.08214517444102" y="8.20625865004013" theta="0.0893139929932214"/>
+            <params width="12" height="-4.299999999999999"/>
+        </shape>
+    </layer>
+    <layer>
+        <shape subtype="0" type="rectangle">
+            <pose x="3.11415841507397" y="5.454912967110702" theta="0.6584006223286798"/>
+            <params width="14" height="-4.9"/>
+        </shape>
+        <shape subtype="0" type="rectangle">
+            <pose x="16.8097723414743" y="14.45116298886358" theta="0.2417347774301655"/>
+            <params width="12" height="-4.299999999999999"/>
+        </shape>
+    </layer>
+</design>
